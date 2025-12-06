@@ -1,4 +1,4 @@
-import { useState } from "react";
+import { useState, useEffect } from "react";
 import { Select, Input, Button } from "antd";
 import { ClearOutlined } from "@ant-design/icons";
 import { STATUS_OPTIONS } from "../constants/statuses";
@@ -18,7 +18,6 @@ const FilterBar = ({ onFilterChange, onSearchChange }) => {
 	const handleSearchChange = (e) => {
 		const value = e.target.value;
 		setSearchQuery(value);
-		onSearchChange(value);
 	};
 
 	const handleClear = () => {
@@ -27,6 +26,14 @@ const FilterBar = ({ onFilterChange, onSearchChange }) => {
 		onFilterChange("all");
 		onSearchChange("");
 	};
+
+	useEffect(() => {
+		const handler = setTimeout(() => {
+			onSearchChange(searchQuery);
+		}, 400);
+
+		return () => clearTimeout(handler);
+	}, [searchQuery, onSearchChange]);
 
 	return (
 		<div className={styles.filterBar}>
