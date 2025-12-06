@@ -1,0 +1,222 @@
+[
+	{
+		"id": 109,
+		"category": "Вывоз мусора",
+		"address": "ул. Бейсекбаева, 27",
+		"status": "В работе",
+		"created_at": "2025-11-16",
+		"description": "Контейнеры переполнены",
+		"latitude": 51.17042,
+		"longitude": 71.45913,
+		"photo": null
+	},
+	{
+		"id": 110,
+		"category": "Освещение улиц",
+		"address": "ул. Бейсекбаева, 31",
+		"status": "Отклонено",
+		"created_at": "2025-11-15",
+		"description": "Не горит фонарь у подъезда",
+		"latitude": 51.17123,
+		"longitude": 71.45845,
+		"photo": null
+	},
+	{
+		"id": 111,
+		"category": "Дорожное покрытие",
+		"address": "ул. Шарбакты, 9",
+		"status": "В работе",
+		"created_at": "2025-11-14",
+		"description": "Трещины и выбоины",
+		"latitude": 51.16886,
+		"longitude": 71.46381,
+		"photo": null
+	},
+	{
+		"id": 112,
+		"category": "Вывоз мусора",
+		"address": "ул. Шарбакты, 11",
+		"status": "В работе",
+		"created_at": "2025-11-13",
+		"description": "Запах от контейнеров",
+		"latitude": 51.16921,
+		"longitude": 71.46472,
+		"photo": null
+	},
+	{
+		"id": 113,
+		"category": "Освещение улиц",
+		"address": "ул. Ырыс, 5",
+		"status": "Решено",
+		"created_at": "2025-11-12",
+		"description": "Установлены новые фонари",
+		"latitude": 51.16703,
+		"longitude": 71.46845,
+		"photo": null
+	},
+	{
+		"id": 114,
+		"category": "Дорожное покрытие",
+		"address": "ул. Ырыс, 7",
+		"status": "В работе",
+		"created_at": "2025-11-11",
+		"description": "Разбита парковка",
+		"latitude": 51.16641,
+		"longitude": 71.46918,
+		"photo": null
+	},
+	{
+		"id": 115,
+		"category": "Вывоз мусора",
+		"address": "ул. Мушелтой, 3",
+		"status": "Отклонено",
+		"created_at": "2025-11-10",
+		"description": "Жители выбрасывают мимо контейнеров",
+		"latitude": 51.16482,
+		"longitude": 71.47025,
+		"photo": null
+	},
+	{
+		"id": 116,
+		"category": "Освещение улиц",
+		"address": "ул. Мушелтой, 4",
+		"status": "В работе",
+		"created_at": "2025-11-09",
+		"description": "Мигает прожектор на парковке",
+		"latitude": 51.16513,
+		"longitude": 71.47104,
+		"photo": null
+	},
+	{
+		"id": 117,
+		"category": "Дорожное покрытие",
+		"address": "ул. Тепловая, 2",
+		"status": "В работе",
+		"created_at": "2025-11-09",
+		"description": "Большая яма у выезда",
+		"latitude": 51.16342,
+		"longitude": 71.47352,
+		"photo": null
+	},
+	{
+		"id": 118,
+		"category": "Дорожное покрытие",
+		"address": "ул. Тепловая, 6",
+		"status": "Отклонено",
+		"created_at": "2025-11-08",
+		"description": "Старая разметка стерлась",
+		"latitude": 51.16274,
+		"longitude": 71.47421,
+		"photo": null
+	},
+	{
+		"id": 119,
+		"category": "Освещение улиц",
+		"address": "ул. Сарыколь, 10",
+		"status": "Решено",
+		"created_at": "2025-11-07",
+		"description": "Фонарные столбы заменены",
+		"latitude": 51.16145,
+		"longitude": 71.47092,
+		"photo": null
+	},
+	{
+		"id": 120,
+		"category": "Вывоз мусора",
+		"address": "ул. Сарыколь, 14",
+		"status": "В работе",
+		"created_at": "2025-11-06",
+		"description": "График вывоза нарушается",
+		"latitude": 51.16074,
+		"longitude": 71.47166,
+		"photo": null
+	},
+	{
+		"id": 121,
+		"category": "Освещение улиц",
+		"address": "ул. Коктем, 8",
+		"status": "В работе",
+		"created_at": "2025-11-05",
+		"description": "На улице темно, лампы перегорели",
+		"latitude": 51.16182,
+		"longitude": 71.46578,
+		"photo": null
+	},
+	{
+		"id": 122,
+		"category": "Дорожное покрытие",
+		"address": "ул. Коктем, 12",
+		"status": "Решено",
+		"created_at": "2025-11-03",
+		"description": "Асфальт заменен",
+		"latitude": 51.16104,
+		"longitude": 71.46654,
+		"photo": null
+	},
+	{
+		"id": 123,
+		"category": "Вывоз мусора",
+		"address": "ул. Коктем, 16",
+		"status": "В работе",
+		"created_at": "2025-11-02",
+		"description": "Площадка требует уборки",
+		"latitude": 51.16047,
+		"longitude": 71.46742,
+		"photo": null
+	},
+	{
+		"id": 124,
+		"category": "Освещение улиц",
+		"address": "ул. Ак-Булак, 5",
+		"status": "Отклонено",
+		"created_at": "2025-11-01",
+		"description": "Не работает светильник",
+		"latitude": 51.16772,
+		"longitude": 71.45241,
+		"photo": null
+	},
+	{
+		"id": 125,
+		"category": "Дорожное покрытие",
+		"address": "ул. Ак-Булак, 8",
+		"status": "В работе",
+		"created_at": "2025-10-30",
+		"description": "Разбита дорога",
+		"latitude": 51.16715,
+		"longitude": 71.45327,
+		"photo": null
+	},
+	{
+		"id": 126,
+		"category": "Вывоз мусора",
+		"address": "ул. Женис, 2",
+		"status": "Решено",
+		"created_at": "2025-10-28",
+		"description": "Вывоз восстановлен",
+		"latitude": 51.16902,
+		"longitude": 71.45016,
+		"photo": null
+	},
+	{
+		"id": 127,
+		"category": "Освещение улиц",
+		"address": "ул. Женис, 4",
+		"status": "В работе",
+		"created_at": "2025-10-27",
+		"description": "Тусклое освещение",
+		"latitude": 51.16989,
+		"longitude": 71.45093,
+		"photo": null
+	},
+	{
+		"id": 128,
+		"category": "Дорожное покрытие",
+		"address": "ул. Женис, 7",
+		"status": "Отклонено",
+		"created_at": "2025-10-25",
+		"description": "Требуется ремонт бордюров",
+		"latitude": 51.17021,
+		"longitude": 71.45172,
+		"photo": null
+	}
+]
